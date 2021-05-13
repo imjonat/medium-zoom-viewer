@@ -13,7 +13,6 @@ import ReactDOM, { render } from 'react-dom'
 const StyledDiv = styled.div`
   cursor: zoom-in;
   width: fit-content;
-  line-height: 0;
   .medium-zoom-hidden {
     visibility: hidden;
   }
