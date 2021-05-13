@@ -29,12 +29,6 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "prettier": {
-    "printWidth": 80,
-    "semi": false,
-    "singleQuote": true,
-    "trailingComma": "es5"
-  },
   "name": "medium-zoom-viewer",
   "author": "Jonathan",
   "module": "dist/medium-zoom-viewer.esm.js",
