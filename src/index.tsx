@@ -16,6 +16,9 @@ const StyledDiv = styled.div`
   .medium-zoom-hidden {
     visibility: hidden;
   }
+  .medium-zoom-cloned {
+    z-index: 10000;
+  }
 `
 
 export interface Props extends HTMLAttributes<HTMLDivElement> {
